@@ -1,0 +1,7 @@
+.App .close{
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius:20px;
+  cursor: pointer;
+}
